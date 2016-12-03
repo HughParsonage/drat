@@ -5,3 +5,11 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: taxstats
+Version: 0.0.4.1314
+Depends: R (>= 3.2.3)
+Imports: dplyr (>= 0.5.0), data.table
+License: CC BY 4.0
+MD5sum: 40ecca6eec5b7d6b7bd86b55b6040925
+NeedsCompilation: no
+
