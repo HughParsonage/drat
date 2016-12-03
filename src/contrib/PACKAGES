@@ -10,6 +10,6 @@ Version: 0.0.4.1314
 Depends: R (>= 3.2.3)
 Imports: dplyr (>= 0.5.0), data.table
 License: CC BY 4.0
-MD5sum: 40ecca6eec5b7d6b7bd86b55b6040925
+MD5sum: 13f172072624d99a6ce77da1540d26f4
 NeedsCompilation: no
 
