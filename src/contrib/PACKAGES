@@ -6,13 +6,13 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: grattanReporter
-Version: 0.15.4
+Version: 0.15.5
 Depends: R (>= 2.10)
 Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
         crayon, gmailr, twitteR, readr, zoo
 Suggests: testthat
 License: GPL-2
-MD5sum: d708b132a83de16133cd9fb724802d9e
+MD5sum: 315d716da7e6ec8c4cc099a4d9051374
 NeedsCompilation: no
 
 Package: taxstats
