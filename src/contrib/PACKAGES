@@ -12,7 +12,7 @@ Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
         crayon, gmailr, twitteR, readr, zoo
 Suggests: testthat
 License: GPL-2
-MD5sum: 9ea9b99cee94bef1d6ffdf6ed315e480
+MD5sum: 819ec51581e78b02d24d81157303b02a
 NeedsCompilation: no
 
 Package: taxstats
