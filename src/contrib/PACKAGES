@@ -15,6 +15,14 @@ License: GPL-2
 MD5sum: 327accf92e924f31db9db96b2390e2d1
 NeedsCompilation: no
 
+Package: hutils
+Version: 0.2.1
+Imports: data.table, magrittr, fastmatch
+Suggests: testthat
+License: GPL-3
+MD5sum: 8a53b0958c75b97349e67975b7f3a646
+NeedsCompilation: no
+
 Package: taxstats
 Version: 0.0.4.1314
 Depends: R (>= 3.2.3)
