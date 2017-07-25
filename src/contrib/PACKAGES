@@ -18,9 +18,9 @@ NeedsCompilation: no
 Package: hutils
 Version: 0.2.1
 Imports: data.table, magrittr, fastmatch
-Suggests: testthat
+Suggests: testthat, datasets
 License: GPL-3
-MD5sum: 8a53b0958c75b97349e67975b7f3a646
+MD5sum: ce1ec404aa77ec47e6686fd7e242e088
 NeedsCompilation: no
 
 Package: taxstats
