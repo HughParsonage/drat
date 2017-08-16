@@ -16,11 +16,11 @@ MD5sum: 71ae1f8077563fafe0e4a853378a1f2c
 NeedsCompilation: no
 
 Package: hutils
-Version: 0.4.0
+Version: 0.5.0
 Imports: data.table, magrittr, fastmatch
 Suggests: testthat, datasets
 License: GPL-3
-MD5sum: 0979bb785fb13397e44e363f8ec3a992
+MD5sum: 1765025ac34d0a13cfb5be54969f9979
 NeedsCompilation: no
 
 Package: taxstats
