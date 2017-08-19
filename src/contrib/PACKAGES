@@ -1,3 +1,11 @@
+Package: Census2016.DataPack
+Version: 0.1.0
+Depends: R (>= 2.15.0)
+Imports: data.table
+License: CC BY 4.0
+MD5sum: 39f54ae71a08d80e78f8b636cbff3ae5
+NeedsCompilation: no
+
 Package: drat
 Version: 0.0.4
 Suggests: git2r, knitr
@@ -8,8 +16,8 @@ NeedsCompilation: no
 Package: grattanReporter
 Version: 0.19.1
 Depends: R (>= 2.10)
-Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
-        crayon, gmailr, twitteR, readr, zoo
+Imports: magrittr, dplyr, data.table, stringi, hunspell,
+       clisymbols, crayon, gmailr, twitteR, readr, zoo
 Suggests: testthat
 License: GPL-2
 MD5sum: 71ae1f8077563fafe0e4a853378a1f2c
