@@ -20,7 +20,7 @@ Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
         crayon, gmailr, twitteR, readr, zoo
 Suggests: testthat
 License: GPL-2
-MD5sum: 8bb26070e8e8eedca4a202e30f1a7f7a
+MD5sum: 2aafbc54469ab4e2137e03356e62f95d
 NeedsCompilation: no
 
 Package: hutils
