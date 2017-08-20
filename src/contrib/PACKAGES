@@ -38,3 +38,13 @@ Imports: dplyr (>= 0.5.0), data.table
 License: CC BY 4.0
 MD5sum: d4bd23db3b53256ce23620fcc7270a40
 NeedsCompilation: no
+
+Package: TeXCheckR
+Version: 0.2.2
+Depends: R (>= 2.10)
+Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
+        crayon, readr, zoo
+Suggests: testthat
+License: GPL-2
+MD5sum: bfbfb1936d9989d580962bbcedd3eb14
+NeedsCompilation: no
