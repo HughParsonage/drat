@@ -42,9 +42,9 @@ NeedsCompilation: no
 Package: TeXCheckR
 Version: 0.2.2
 Depends: R (>= 2.10)
-Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
-        crayon, readr, zoo
+Imports: magrittr, dplyr, data.table, stringi, hunspell, hutils,
+        clisymbols, crayon, readr, rstudioapi, zoo
 Suggests: testthat
 License: GPL-2
-MD5sum: bfbfb1936d9989d580962bbcedd3eb14
+MD5sum: 6dcf4f6a2ecb122ba2e7c60e32651ab6
 NeedsCompilation: no
