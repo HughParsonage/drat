@@ -15,12 +15,12 @@ NeedsCompilation: no
 
 Package: grattanReporter
 Version: 0.21.0
-Depends: R (>= 2.10), TeXCheckR
+Depends: R (>= 2.10), TeXCheckR (>= 0.2.2)
 Imports: magrittr, dplyr, data.table, stringi, hunspell, clisymbols,
-        crayon, gmailr, twitteR, readr, zoo
-Suggests: testthat
+        crayon, readr, zoo
+Suggests: testthat, devtools, hutils
 License: GPL-2
-MD5sum: 2a6300d1a0ff32ac1a4c80a509a1f6db
+MD5sum: a99350552cffef1b931bc47f4d28e35c
 NeedsCompilation: no
 
 Package: hutils
