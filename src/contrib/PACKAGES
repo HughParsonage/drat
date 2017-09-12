@@ -28,7 +28,7 @@ Version: 0.8.0
 Imports: data.table, magrittr, utils, fastmatch
 Suggests: testthat, datasets
 License: GPL-3
-MD5sum: 9c577e5c726c72fca68f50213fe5b4fe
+MD5sum: b1c463334993ac467204d9cf9c016875
 NeedsCompilation: no
 
 Package: taxstats
