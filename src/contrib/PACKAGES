@@ -24,11 +24,11 @@ MD5sum: 904326839609358fc51ef3c19cbe7ef9
 NeedsCompilation: no
 
 Package: hutils
-Version: 0.8.0
+Version: 0.8.1
 Imports: data.table, magrittr, utils, fastmatch
-Suggests: testthat, datasets
+Suggests: testthat, datasets, dplyr, microbenchmark
 License: GPL-3
-MD5sum: 1f97da99f68d8a1d64abaeeb7bf21cec
+MD5sum: 373ebf70a3ad3be353345bf0cf701de7
 NeedsCompilation: no
 
 Package: taxstats
