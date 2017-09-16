@@ -27,9 +27,9 @@ Package: hutils
 Version: 0.8.2
 Imports: data.table, magrittr, utils, fastmatch
 Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
-        nycflights13, geosphere
+        nycflights13, geosphere, ggplot2
 License: GPL-3
-MD5sum: c0f1091f510224a3c4675b1baade379a
+MD5sum: 7251785ed089646a048af194b3905bcd
 NeedsCompilation: no
 
 Package: taxstats
