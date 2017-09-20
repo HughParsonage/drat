@@ -14,13 +14,13 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: grattanReporter
-Version: 0.23.0
+Version: 0.23.1
 Depends: R (>= 2.10), TeXCheckR (>= 0.2.2)
 Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon,
         readr, zoo
 Suggests: testthat, devtools
 License: GPL-2
-MD5sum: 71accdc0f3045507614b277a741905d8
+MD5sum: e754670acde4f4db312eed1f22812c15
 NeedsCompilation: no
 
 Package: hutils
