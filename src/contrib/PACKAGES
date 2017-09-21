@@ -20,7 +20,7 @@ Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon,
         readr, utils, zoo
 Suggests: testthat, devtools
 License: GPL-2
-MD5sum: bd9d2711a95590eff6f903bee3847890
+MD5sum: 298a0477f7d92bfde341179f6f597e79
 NeedsCompilation: no
 
 Package: hutils
