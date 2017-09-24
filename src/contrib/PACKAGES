@@ -41,11 +41,11 @@ MD5sum: d4bd23db3b53256ce23620fcc7270a40
 NeedsCompilation: no
 
 Package: TeXCheckR
-Version: 0.3.1
+Version: 0.3.3
 Depends: R (>= 2.10)
-Imports: magrittr, data.table, stringi, hunspell, hutils, clisymbols,
-        crayon, readr, rstudioapi, stats, zoo
+Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0),
+        clisymbols, crayon, readr, rstudioapi, stats, zoo, fastmatch
 Suggests: testthat
 License: GPL-2
-MD5sum: 08ff617236c471eb85ff1894599e8857
+MD5sum: 77cc2753627f72e3d667bbb34d477814
 NeedsCompilation: no
