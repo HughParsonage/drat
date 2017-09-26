@@ -47,5 +47,5 @@ Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0),
         clisymbols, crayon, readr, rstudioapi, stats, zoo, fastmatch
 Suggests: testthat
 License: GPL-2
-MD5sum: 429d4e26bde9011fe8ce06382085adbe
+MD5sum: e8478a58cc577990af946055ae277b4b
 NeedsCompilation: no
