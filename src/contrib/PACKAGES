@@ -14,19 +14,20 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: grattanReporter
-Version: 0.23.0
+Version: 0.23.1
 Depends: R (>= 2.10), TeXCheckR (>= 0.2.2)
-Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon, readr, zoo
+Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon,
+        readr, utils, zoo
 Suggests: testthat, devtools
 License: GPL-2
-MD5sum: 904326839609358fc51ef3c19cbe7ef9
+MD5sum: 298a0477f7d92bfde341179f6f597e79
 NeedsCompilation: no
 
 Package: hutils
 Version: 0.8.3
 Imports: data.table, magrittr, utils, fastmatch
-Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown, nycflights13,
-          geosphere, ggplot2
+Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
+        nycflights13, geosphere, ggplot2
 License: GPL-3
 MD5sum: 5cd6f8f2cd548c9055425fb96629573e
 NeedsCompilation: no
@@ -40,11 +41,11 @@ MD5sum: d4bd23db3b53256ce23620fcc7270a40
 NeedsCompilation: no
 
 Package: TeXCheckR
-Version: 0.3.1
+Version: 0.3.3
 Depends: R (>= 2.10)
-Imports: magrittr, data.table, stringi, hunspell, hutils, clisymbols, crayon, readr,
-          rstudioapi, stats, zoo
+Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0),
+        clisymbols, crayon, readr, rstudioapi, stats, zoo, fastmatch
 Suggests: testthat
 License: GPL-2
-MD5sum: 08ff617236c471eb85ff1894599e8857
+MD5sum: ee8b8ee96c6c4946f0e0dd4a30816a2a
 NeedsCompilation: no
