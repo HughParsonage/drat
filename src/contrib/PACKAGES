@@ -29,7 +29,7 @@ Imports: data.table, magrittr, utils, fastmatch
 Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
         nycflights13, geosphere, ggplot2
 License: GPL-3
-MD5sum: 59d2961c7abfc8fc70dff43a2e5d7b30
+MD5sum: 5eeda4decef6bf6da9b40afeb78613f5
 NeedsCompilation: no
 
 Package: taxstats
