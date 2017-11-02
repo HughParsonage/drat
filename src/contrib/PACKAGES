@@ -48,5 +48,5 @@ Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0),
         fastmatch
 Suggests: testthat, devtools
 License: GPL-2
-MD5sum: 766331499ba86d33d62a8b0d15016071
+MD5sum: 9c5f14deae8b96fa2889781e97ca6f42
 NeedsCompilation: no
