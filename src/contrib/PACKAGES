@@ -33,7 +33,7 @@ Imports: data.table, magrittr, stats, utils, fastmatch
 Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
         nycflights13, geosphere, ggplot2
 License: GPL-3
-MD5sum: d49b40abe777d8eb841f1f8d622dd6ed
+MD5sum: 445f855c68fad2d1e785e6073b72958d
 NeedsCompilation: no
 File: hutils_0.9.0.9.tar.gz
 
