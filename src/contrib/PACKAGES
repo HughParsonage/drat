@@ -1,9 +1,9 @@
 Package: Census2016.DataPack
-Version: 0.1.0
+Version: 0.1.9
 Depends: R (>= 2.15.0)
 Imports: data.table
 License: CC BY 4.0
-MD5sum: 3b510bdeb2ce7ffd720aaf655b3b598f
+MD5sum: 572f0fcb6e4909753476dc3934198016
 NeedsCompilation: no
 
 Package: drat
