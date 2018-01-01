@@ -3,7 +3,7 @@ Version: 0.1.9
 Depends: R (>= 2.15.0)
 Imports: data.table
 License: CC BY 4.0
-MD5sum: 572f0fcb6e4909753476dc3934198016
+MD5sum: 1ae3493e0d0fb49ad4fd10242ec05337
 NeedsCompilation: no
 
 Package: drat
