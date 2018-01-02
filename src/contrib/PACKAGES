@@ -2,9 +2,9 @@ Package: Census2016.DataPack
 Version: 0.1.9
 Depends: R (>= 2.15.0)
 Imports: data.table
-Suggests: testthat, Census2016.spec
+Suggests: testthat, roxygen2, Census2016.spec
 License: CC BY 4.0
-MD5sum: 4326b3b259b10b77e9fa50e668ba6d30
+MD5sum: 57b9f08305b131d095589380006b2b2d
 NeedsCompilation: no
 
 Package: drat
