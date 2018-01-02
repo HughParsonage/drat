@@ -4,7 +4,7 @@ Depends: R (>= 2.15.0)
 Imports: data.table
 Suggests: testthat, Census2016.spec
 License: CC BY 4.0
-MD5sum: c60c33493eabb5dfaeacec470d4e37ed
+MD5sum: 4326b3b259b10b77e9fa50e668ba6d30
 NeedsCompilation: no
 
 Package: drat
