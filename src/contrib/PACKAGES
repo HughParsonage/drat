@@ -19,7 +19,8 @@ File: drat_0.0.4.tar.gz
 Package: grattanReporter
 Version: 0.25.2
 Depends: R (>= 2.10), TeXCheckR (>= 0.4.2)
-Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon, readr, utils, zoo
+Imports: magrittr, hutils, data.table, stringi, clisymbols, crayon,
+        readr, utils, zoo
 Suggests: testthat, devtools
 License: GPL-2
 MD5sum: 970b02d2212c667c9c44e466db2dd24a
@@ -30,10 +31,10 @@ Package: hutils
 Version: 0.9.0.9
 Depends: R (>= 3.1.0)
 Imports: data.table, magrittr, stats, utils, fastmatch
-Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown, nycflights13, geosphere,
-           ggplot2
+Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
+        nycflights13, geosphere, ggplot2
 License: GPL-3
-MD5sum: 4e24f176551169c00545f3e6600e8df6
+MD5sum: 8a0c662cd5e2f71b9c5ab06ea7eafedf
 NeedsCompilation: no
 File: hutils_0.9.0.9.tar.gz
 
@@ -49,8 +50,9 @@ File: taxstats_0.0.5.1415.tar.gz
 Package: TeXCheckR
 Version: 0.5.1
 Depends: R (>= 2.10)
-Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0), clisymbols, crayon, readr,
-           rstudioapi, stats, tools, zoo, fastmatch
+Imports: magrittr, data.table, stringi, hunspell, hutils (>= 0.8.0),
+        clisymbols, crayon, readr, rstudioapi, stats, tools, zoo,
+        fastmatch
 Suggests: testthat, devtools
 License: GPL-2
 MD5sum: e28001123acb2484a2a349792eb6ab74
