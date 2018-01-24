@@ -28,15 +28,15 @@ NeedsCompilation: no
 File: grattanReporter_0.25.2.tar.gz
 
 Package: hutils
-Version: 0.9.0.9
+Version: 0.10.0
 Depends: R (>= 3.1.0)
 Imports: data.table, magrittr, stats, utils, fastmatch
 Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown,
         nycflights13, geosphere, ggplot2
 License: GPL-3
-MD5sum: df7a6aa927c6271de9f2b57ed2bbaffa
+MD5sum: 31c30eaf189b1012af80269ce78e2ab1
 NeedsCompilation: no
-File: hutils_0.9.0.9.tar.gz
+File: hutils_0.10.0.tar.gz
 
 Package: taxstats
 Version: 0.0.5.1415
