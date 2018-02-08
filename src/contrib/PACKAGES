@@ -48,5 +48,5 @@ Imports: clisymbols, crayon, data.table, fastmatch, hunspell, hutils
         (>= 0.8.0), magrittr, rstudioapi, stats, tools, zoo
 Suggests: devtools, readr, stringi, testthat
 License: GPL-2
-MD5sum: c1f8ad7d29e1fde1032aa8362e278b38
+MD5sum: 318c7dadc1d7fb82eb3847e910885bc4
 NeedsCompilation: no
