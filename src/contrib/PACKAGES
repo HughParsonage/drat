@@ -30,8 +30,8 @@ Package: hutils
 Version: 0.10.0
 Depends: R (>= 3.1.0)
 Imports: data.table, magrittr, stats, utils, fastmatch
-Suggests: testthat, datasets, dplyr, microbenchmark, knitr, rmarkdown, nycflights13, geosphere,
-           ggplot2
+Suggests: testthat, datasets, dplyr, microbenchmark, knitr,
+       rmarkdown, nycflights13, geosphere, ggplot2
 License: GPL-3
 MD5sum: 31c30eaf189b1012af80269ce78e2ab1
 NeedsCompilation: no
@@ -43,15 +43,15 @@ Depends: R (>= 3.2.0)
 Imports: hutils
 Suggests: data.table
 License: CC BY 4.0
-MD5sum: 6e3556de507ed30dd4c0037e291d00f4
+MD5sum: 23812f18d9a0a025c981f010a2f92226
 NeedsCompilation: no
 File: taxstats_0.0.5.1415.tar.gz
 
 Package: TeXCheckR
 Version: 0.5.1
 Depends: R (>= 3.3.0)
-Imports: clisymbols, crayon, data.table, fastmatch, hunspell, hutils (>= 0.8.0), magrittr,
-           rstudioapi, stats, tools, zoo
+Imports: clisymbols, crayon, data.table, fastmatch, hunspell,
+       hutils (>= 0.8.0), magrittr, rstudioapi, stats, tools, zoo
 Suggests: devtools, readr, stringi, testthat
 License: GPL-2
 MD5sum: 2d2443b053a6b218ef01e36c08fb31b3
