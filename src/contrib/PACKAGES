@@ -22,7 +22,7 @@ Depends: R (>= 2.10), TeXCheckR (>= 0.4.2)
 Imports: magrittr, hutils, data.table, clisymbols, crayon, utils,
 Suggests: testthat, devtools, stringi, readr
 License: GPL-2
-MD5sum: 2a8389dbb6cb18c6f3275f8afa173956
+MD5sum: 7f43cac9ba6cc72eea4c34ba025a1eed
 NeedsCompilation: no
 File: grattanReporter_0.25.2.tar.gz
 
