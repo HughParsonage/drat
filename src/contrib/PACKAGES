@@ -50,5 +50,5 @@ Imports: clisymbols, crayon, data.table (>= 1.9.0), fastmatch,
         tools, zoo
 Suggests: devtools, readr, stringi, testthat (>= 2.0.0), tinytex
 License: GPL-2
-MD5sum: 172caa82122e4832d9ed65286f60e163
+MD5sum: ee16dedcb9d4ac4f939c9fa4df320563
 NeedsCompilation: no
