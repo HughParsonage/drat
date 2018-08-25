@@ -44,12 +44,12 @@ MD5sum: 346d24bc43c92db59e4f2c7026de099b
 NeedsCompilation: no
 
 Package: TeXCheckR
-Version: 0.5.99.5
+Version: 0.6.0
 Depends: R (>= 3.3.0)
-Imports: clisymbols, crayon, data.table (>= 1.9.0), fastmatch,
-        hunspell, hutils (>= 0.8.0), magrittr, rstudioapi, stats,
+Imports: clisymbols, crayon, data.table (>= 1.9.0), fastmatch, hunspell
+        (>= 2.5), hutils (>= 0.8.0), magrittr, rstudioapi, stats,
         tools, zoo
 Suggests: devtools, readr, stringi, testthat (>= 2.0.0), tinytex
 License: GPL-2
-MD5sum: 4faf0848f6ec2fb683040d0015ee5cfe
+MD5sum: 0a32241b23ebcb0199bb606da27a6772
 NeedsCompilation: no
