@@ -49,7 +49,7 @@ Depends: R (>= 3.3.0)
 Imports: clisymbols, crayon, data.table (>= 1.9.0), fastmatch, hunspell
         (>= 2.5), hutils (>= 0.8.0), magrittr, rstudioapi, stats,
         tools, zoo
-Suggests: devtools, readr, stringi, testthat (>= 2.0.0), tinytex
+Suggests: devtools, readr, rlang, stringi, testthat (>= 2.0.0), tinytex
 License: GPL-2
-MD5sum: f34971123fb24988beeb96313d625457
+MD5sum: ca89d21a008bb47ee92f1ef5a31866be
 NeedsCompilation: no
